@@ -17,7 +17,7 @@ String name = JOptionPane.showInputDialog("What is your name?");
 System.out.println( name.toUpperCase());
 		// 3. Loop through each character of the name (steps 4 - 7).
 		//    HINT: Use .length() to determine the number of characters in the String.
-for(int )
+for(int );
 				// 4. Create a char variable to store the next character of the name
 				//    use .charAt()
 	
