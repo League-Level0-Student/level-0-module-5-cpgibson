@@ -26,7 +26,19 @@ for (int i=0; i<=5; i++) {
 	// Red, Green, Blue
 	// (Color.BLUE)
 	rob.setPenColor(Color.BLACK);
-	
+	rob.move(50);
+	rob.turn(60);
+	if (i % 2 == 0) {
+		rob.setPenColor(Color.BLUE);
+	}
+	else {
+		rob.setPenColor(Color.RED);
+	}
+	for (int j=0; j<=5; j++) {
+		rob.turn(-60);
+		rob.move(50);
+	}
+	rob.setPenColor(Color.BLACK);
 }
 			
 			// #6. Set the pen color to black
@@ -45,7 +57,7 @@ for (int i=0; i<=5; i++) {
 			
 			
 			// #9. Use a for loop to do everything (#10, #11) 6 times ( use j as a counter )
-			
+}
 			
 					// #10. turn the robot to the left by 60
 		
@@ -59,4 +71,4 @@ for (int i=0; i<=5; i++) {
 		
 	}
 
-}
+
