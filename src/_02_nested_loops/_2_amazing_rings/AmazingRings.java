@@ -3,6 +3,8 @@ package _02_nested_loops._2_amazing_rings;
 import processing.core.PApplet;
 import processing.core.PImage;
 
+setup()
+		
 /*
  * Goal: Create a pair of Amazing Rings!
  * 
