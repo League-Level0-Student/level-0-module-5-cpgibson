@@ -10,7 +10,7 @@ setup()
  * 
  * 1. Open the demonstration for this recipe by opening the Recipe.html
  *    file in this folder.
- * 
+ * ok
  * In the setup() method:
  * 2. Set the size of your window to be a rectangle like in the recipe
  *    demonstration
