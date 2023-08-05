@@ -4,7 +4,7 @@ import processing.core.PApplet;
 import processing.core.PImage;
 
 setup()
-		
+		aaaa
 /*
  * Goal: Create a pair of Amazing Rings!
  * 
